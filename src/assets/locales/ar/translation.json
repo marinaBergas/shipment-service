@@ -1,0 +1,62 @@
+{
+  "welcome": {
+    "Home": "الرئيسية",
+    "Prices": "الاسعار",
+    "Contact_Sales": "كلم المبيعات",
+    "Tracking_Shipment": "تتبع شحنتك",
+    "Sign_IN": "تسجيل الدخول"
+  },
+  "trackStatus": {
+    "Tracking_Details": "تفاصيل الشحنة",
+    "Delivery_Address": "عنوان التسليم",
+    "Time": "الوقت",
+    "Date": "التاريخ",
+    "Details": "التفاصيل",
+    "Branch": "الفرع",
+    "Last_Update": "أخر تحديث",
+    "Sender": "اسم التاجر ",
+    "Shipment_No": "رقم الشحنة",
+    "Delivery_Appointment_With_In": "موعد التسليم خلال",
+    "Please_Enter_your_Shipment_Number": "  الرجاء إدخال رقم الشحنة وتتبع الشحنة الخاصة بك ",
+    "Track_Another_Shipment": "تتبع شحنة اخرى",
+    "Track-Num": "رقم الشحنة",
+    "TICKET_CREATED": " يجهز للشحن  ",
+    "PACKAGE_RECEIVED": "تم الاستلام  من التاجر",
+    "TICKET_SHIPPED": "الشحنة خرجت للتسليم",
+    "NOT_YET_SHIPPED": "لم تخرج الشحنة بعد  ",
+    "OUT_FOR_DELIVERY": " تم تسليم الأوردر ",
+    "WAITING_FOR_CUSTOMER_ACTION": "في انتظار رد العميل",
+    "DELIVERED": "تم تسليم الأوردر",
+    "RETURNED": "تم ارجاعه",
+    "DELIVERED_TO_SENDER": "تم ارجاعه",
+    "DELIVERED_From_SENDER": "تم استلام الشحنة من التاجر",
+    "RECEIVED_DELIVERY_LOCATION": "تم استلام العنوان",
+    "IN_TRANSIT": "فى محطة الوصول",
+    "CANCELLED": "تم الالغاء",
+    "DELIVERY_FAILED": "تم حذفه",
+    "AVAILABLE_FOR_PICKUP": "متاح للاستلام",
+    "Postponed - the customer requested postponement for another day.": "تأجيل - العميل طلب التاجيل ليوم اخر",
+    "تأجيل - العميل طلب التاجيل ليوم اخر": "تأجيل - العميل طلب التاجيل ليوم اخر",
+    "Customer is not answering": "العميل لم يرد",
+    "العميل قام بإلغاء الطلب": "العميل قام بإلغاء الطلب",
+    "إلغاء - العميل رفض استلام الشحنة": "إلغاء - العميل رفض استلام الشحنة",
+    "العميل لا يرد على المكالمة": "العميل لا يرد على المكالمة",
+    "undefined": "غير معلوم"
+  },
+  "trackStatusHub": {
+    "Katamya Hub": "قطامية",
+    "Cairo Sorting Facility": "القاهرة",
+    "Mohandseen Hub": "المهندسين",
+    "undefined": "غير معلوم",
+    "Alexandria Hub": "الاسكندرية",
+    "Bosta HQ": " مقر بوسطة",
+    "Assiut Hub": "اسيوط",
+    "Nasr City Hub": "مدينة نصر",
+    "Banha Hub": "بنها",
+    "Haram Hub": "الهرم"
+  },
+  "help": {
+    "Any_Problemes": "!هل يوجد مشكلة فى شحنتك ",
+    "Report_aproblem": "ابلاغ عن مشكلة"
+  }
+}

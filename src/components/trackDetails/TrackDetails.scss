@@ -1,0 +1,6 @@
+.track-details-container {
+  display: flex;
+  @media screen and(max-width: 994px) {
+    flex-direction: column;
+  }
+}

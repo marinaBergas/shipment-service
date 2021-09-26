@@ -1,0 +1,30 @@
+$red: #ff0000;
+
+.track-address-content {
+  width: 45%;
+  @media screen and (max-width: 994px) {
+    width: 100%;
+  }
+  .track-address-head {
+    padding: 1em 0em;
+  }
+  .track-help-container {
+    display: flex;
+    align-items: center;
+    .track-help-image-container {
+      width: 50%;
+      .track-help-image {
+        width: 100%;
+      }
+    }
+    .track-help-details {
+      .btn-help {
+        padding: 0.6em;
+        background-color: $red;
+        border: 1px solid $red !important;
+        border-radius: 0.5em;
+        padding-inline: 2em;
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+%linkborderline {
+  position: absolute;
+  content: " ";
+  width: 70%;
+  height: 3px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #ff0000;
+  transform: translate(50%, -10px);
+}
+.navBar {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1em;
+  max-height: 9rem;
+  background-color: #fff;
+  z-index: 22;
+  .navbar-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .logo {
+      max-width: 100%;
+      transition: all 0.7s ease-in-out;
+      @media screen and(max-width: 1300px) {
+        max-width: 120px;
+      }
+    }
+  }
+
+  .mobile-bars {
+    display: none;
+    color: #ff0f21;
+
+    @media screen and (max-width: 994px) {
+      display: block;
+      padding: 1rem;
+      font-size: 1.8rem;
+      cursor: pointer;
+    }
+  }
+  .navbar-menu {
+    display: flex;
+    justify-content: space-around;
+    @media (max-width: 994px) {
+      display: none;
+    }
+
+    .NavLink {
+      position: relative;
+      font-size: 1rem;
+      font-weight: 700;
+      color: #101010 !important;
+      line-height: 24px;
+      padding-left: 3.125em;
+      padding-right: 0 !important;
+      &:hover {
+        &::before {
+          @extend %linkborderline;
+        }
+      }
+    }
+    .activeLink::before {
+      @extend %linkborderline;
+    }
+
+    .track-shipment {
+      display: flex;
+      justify-content: center;
+      padding-left: 4.1em !important;
+      :last-child {
+        font-size: 1.4rem;
+        color: #ff0000;
+      }
+    }
+    .lang {
+      color: #ff0f21;
+      border: none;
+      background-color: white;
+      margin: 0em 1.5em;
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 24px;
+
+      &:hover {
+        color: #ff0f1fc2;
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+.details-container {
+  .details-head {
+    padding: 1em 0em;
+  }
+  flex-grow: 1;
+  .details-content {
+    .table-responsive {
+      .table {
+        border: 1px solid #f1f1f1;
+        border-radius: 1rem;
+        .t-head {
+          background-color: #f3f1f1;
+        }
+        .t-body {
+          tr {
+            .table-time {
+              direction: ltr;
+              display: flex;
+              justify-content: end;
+              align-items: center;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "welcome": {
+    "Home": "Home {{framework}}",
+    "Prices": "Prices {{framework}}",
+    "Contact_Sales": "Contact Sales {{framework}}",
+    "Tracking_Shipment": "Tracking Shipment {{framework}}",
+    "Sign_IN": "Sign in {{framework}}"
+  },
+  "trackStatus": {
+    "Tracking_Details": "Tracking Details {{framework}}",
+    "Delivery_Address": "Delivery Address{{framework}}",
+    "Time": "Time {{framework}}",
+    "Date": "Date {{framework}}",
+    "Details": "Details {{framework}}",
+    "Branch": "Branch {{framework}}",
+    "Last_Update": "Last Update {{framework}}",
+    "Sender": "Sender {{framework}}",
+    "Shipment_No": "Shipment No {{framework}}",
+    "Delivery_Appointment_With_In": " Delivery Appointment With In",
+    "Please_Enter_your_Shipment_Number": "Please enter your shipment number and track your shipment {{framework}}",
+    "Track_Another_Shipment": "Track another shipment{{framework}}",
+    "Track-Num": "Track num {{framework}}",
+    "TICKET_CREATED": "Preparing for shipment  {{framework}}",
+    "PACKAGE_RECEIVED": "Package received  {{framework}}",
+    "TICKET_SHIPPED": "Ticket shipped",
+    "NOT_YET_SHIPPED": "not yet shipped  {{framework}}",
+    "OUT_FOR_DELIVERY": "Delivered  {{framework}}",
+    "WAITING_FOR_CUSTOMER_ACTION": "Waiting for customer action  {{framework}}",
+    "DELIVERED": "Delivered  {{framework}}",
+    "RETURNED": "Returned {{framework}}",
+    "DELIVERED_TO_SENDER": "Returned {{framework}}",
+    "DELIVERED_From_SENDER": "Delivered from sender {{framework}}",
+    "RECEIVED_DELIVERY_LOCATION": "Received delivery location  {{framework}}",
+    "IN_TRANSIT": "In transit {{framework}}",
+    "DELIVERY_FAILED": "Deleted {{framework}}",
+    "CANCELLED": "Deleted {{framework}}",
+    "AVAILABLE_FOR_PICKUP": "Available for pickup{{framework}}",
+    "Postponed - the customer requested postponement for another day.": "Postponed - the customer requested postponement for another day. {{framework}}",
+    "Customer is not answering": "Customer is not answering{{framework}}",
+    "العميل قام بإلغاء الطلب": "Customer called to cancel{{framework}}",
+    "إلغاء - العميل رفض استلام الشحنة": "Customer called to cancel{{framework}}",
+    "العميل لا يرد على المكالمة": "Customer didn`t answer {{framework}}",
+    "undefined": "Undefined {{framework}}"
+  },
+  "trackStatusHub": {
+    "Katamya Hub": "Katamya Hub {{framework}}",
+    "Cairo Sorting Facility": "Cairo",
+    "Mohandseen Hub": "Mohandseen Hub {{framework}}",
+    "undefined": "Undefined {{framework}}",
+    "Alexandria Hub": "Alexandria Hub {{framework}}",
+    "Bosta HQ": "Bosta HQ {{framework}}",
+    "Assiut Hub": "Assiut Hub {{framework}}",
+    "Nasr City Hub": "Nasr City Hub {{framework}}",
+    "Banha Hub": "Banha Hub {{framework}}",
+    "Haram Hub": "Haram Hub {{framework}}",
+    "Tanta Hub": "Tanta Hub {{framework}}"
+  },
+  "help": {
+    "Any_Problemes": "Is there a problem with your shipment ?!  {{framework}}",
+    "Report_aproblem": "Report a problem {{framework}}"
+  }
+}
