@@ -1,7 +1,7 @@
 # shipment-service
 
-<img src="https://github.com/marinaBergas/shipment-service/blob/master/src/assets/desktop.png" width="900" height="400"> 
-<img src="https://github.com/marinaBergas/shipment-service/blob/master/src/assets/responsive.png" width="900" height="400">
+<img src="https://github.com/marinaBergas/shipment-service/blob/master/src/assets/desktop.png" width="900" height="700"> 
+<img src="https://github.com/marinaBergas/shipment-service/blob/master/src/assets/responsive.png" width="900" height="800">
 
  Bosta Shipment tracking ,react app .
  Call the API and handle the response .
