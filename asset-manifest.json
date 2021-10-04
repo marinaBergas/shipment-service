@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shipment-service.git/static/css/main.a8a6bfff.chunk.css",
+    "main.js": "/shipment-service.git/static/js/main.9fe401a3.chunk.js",
+    "main.js.map": "/shipment-service.git/static/js/main.9fe401a3.chunk.js.map",
+    "runtime-main.js": "/shipment-service.git/static/js/runtime-main.9cfcecda.js",
+    "runtime-main.js.map": "/shipment-service.git/static/js/runtime-main.9cfcecda.js.map",
+    "static/css/2.929a84ec.chunk.css": "/shipment-service.git/static/css/2.929a84ec.chunk.css",
+    "static/js/2.1bc18415.chunk.js": "/shipment-service.git/static/js/2.1bc18415.chunk.js",
+    "static/js/2.1bc18415.chunk.js.map": "/shipment-service.git/static/js/2.1bc18415.chunk.js.map",
+    "static/js/3.bd4f8220.chunk.js": "/shipment-service.git/static/js/3.bd4f8220.chunk.js",
+    "static/js/3.bd4f8220.chunk.js.map": "/shipment-service.git/static/js/3.bd4f8220.chunk.js.map",
+    "index.html": "/shipment-service.git/index.html",
+    "static/css/2.929a84ec.chunk.css.map": "/shipment-service.git/static/css/2.929a84ec.chunk.css.map",
+    "static/css/main.a8a6bfff.chunk.css.map": "/shipment-service.git/static/css/main.a8a6bfff.chunk.css.map",
+    "static/js/2.1bc18415.chunk.js.LICENSE.txt": "/shipment-service.git/static/js/2.1bc18415.chunk.js.LICENSE.txt",
+    "static/media/help.352f81ca.jpg": "/shipment-service.git/static/media/help.352f81ca.jpg",
+    "static/media/logo.26249744.svg": "/shipment-service.git/static/media/logo.26249744.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cfcecda.js",
+    "static/css/2.929a84ec.chunk.css",
+    "static/js/2.1bc18415.chunk.js",
+    "static/css/main.a8a6bfff.chunk.css",
+    "static/js/main.9fe401a3.chunk.js"
+  ]
+}
