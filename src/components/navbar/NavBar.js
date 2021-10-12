@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-
-import { ReactComponent as Logo } from "../../assets/logo.svg";
 import { FaAngleDown, FaBars } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
 
@@ -39,11 +37,6 @@ const NavBar = ({ collapsed, setCollapsed }) => {
   ];
   return (
     <div className="navBar">
-      <div className="navbar-logo ">
-        <NavLink to="/">
-          <Logo className="logo" />
-        </NavLink>
-      </div>
       <div className="mobile-bars" onClick={() => handleBarClick()}>
         <FaBars />
       </div>
